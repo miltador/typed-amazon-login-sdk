@@ -1,6 +1,6 @@
 {
   "name": "amazon-login-sdk",
-  "browser": "index.d.ts",
+  "main": "index.d.ts",
   "homepage": "http://login.amazon.com/",
   "version": ""
 }
