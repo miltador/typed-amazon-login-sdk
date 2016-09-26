@@ -27,7 +27,7 @@ declare namespace amazon.Login {
      * will redirect to that URI with the OAuth 2 response parameters included in the query string.
      * If multiple redirect URLs are set, AuthorizeRequest uses the most recent one.
      */
-    onComplete(next: Callback);
+    onComplete(next: Callback): void;
 
     /**
      * The access token issued by the authorization server.
