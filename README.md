@@ -1,2 +1,8 @@
-# typed-amazon-login-sdk
-The type definition for Login with Amazon SDK for JavaScript: http://login.amazon.com/
+# Typed Amazon Login SDK
+
+
+The type definition for [`amazon-login-sdk`](http://login.amazon.com/)
+
+## LICENSE
+
+MIT
